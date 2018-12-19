@@ -10,7 +10,7 @@ Udacity link: https://classroom.udacity.com/me
   + Lesson 9: [MapReduce](lesson9/lesson9.ipynb)
 - Problem Sets
   + Lesson 2: [Problem Set 1: Titanic Data](lesson2/lesson2.ipynb)
-  + Lesson 4: [Problem Set 2: Wrangling Subway Data](lesson4/lesson4.ipynb)
+  + Lesson 4: [Problem Set 2: Wrangling Subway Data](Lesson4/Lesson4.ipynb)
   + Lesson 6: [Problem Set 3: Analying Subway Data](lesson6/lesson6.ipynb)
   + Lesson 8: [Problem Set 4: Visualizing Subway Data](lesson8/lesson8.ipynb)
   + Lesson 10: [Problem Set 5: MapReduce on Subway Data](lesson10/lesson10.ipynb)
